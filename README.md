@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center"> About Me </h3>
+
+<p align="center">
+  <br>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaklede&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yaklede's github stats"></a>&nbsp
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaklede&layout=compact&theme=buefy&hide_border=true"></a>
+</p>
